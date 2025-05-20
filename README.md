@@ -7,8 +7,8 @@ Tópicos: O que é Git e para que serve, principais comandos do Git e como criar
 
 lista dos autores:
 
-https://github.com/JoaoCintra03 
-https://github.com/Romarioalfa 
-https://github.com/prozzin
+João Victor Cintra - https://github.com/JoaoCintra03 
+Romario - https://github.com/Romarioalfa 
+Brayan - https://github.com/prozzin
 
 
